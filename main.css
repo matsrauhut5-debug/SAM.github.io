@@ -1,3 +1,10 @@
-body {
-  color: blue;
+
+body { 
+  font-family: system-ui, Arial, sans-serif; 
+  margin: 2rem; 
+  background-color: blue
+}
+
+h1 { 
+  color: white; 
 }
